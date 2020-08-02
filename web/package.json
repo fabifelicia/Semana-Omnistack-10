@@ -9,12 +9,8 @@
     "acorn": "^7.2.0",
     "axios": "^0.19.1",
     "kind-of": "^6.0.3",
-<<<<<<< HEAD
     "lodash": "^4.17.19",
-    "minimist": "0.2.1",
-=======
     "minimist": "1.2.3",
->>>>>>> 1a5f30dba55f6d30d9daf684f4eef5a6b8b9c686
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "react-scripts": "3.3.0",
