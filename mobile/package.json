@@ -27,7 +27,11 @@
     "react-native-safe-area-context": "0.6.0",
     "react-native-screens": "2.0.0-alpha.12",
     "react-native-web": "~0.11.7",
+<<<<<<< HEAD
     "react-native-webview": "^11.0.2",
+=======
+    "react-native-webview": "^11.0.0",
+>>>>>>> ba406b576ca5e6972812dc27bcfff9e592d7e5fa
     "react-navigation": "^4.3.9",
     "react-navigation-stack": "^2.7.0",
     "serialize-javascript": "^4.0.0",
