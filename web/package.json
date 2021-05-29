@@ -10,6 +10,7 @@
     "acorn": "^7.2.0",
     "axios": "^0.21.1",
     "browserlist": "^1.0.1",
+    "browserslist": "^4.16.6",
     "dot-prop": "^5.2.0",
     "elliptic": "^6.5.4",
     "hosted-git-info": "^4.0.2",
