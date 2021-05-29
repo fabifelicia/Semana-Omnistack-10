@@ -16,7 +16,7 @@
     "mongoose": "^5.8.7",
     "mquery": "^3.2.3",
     "socket.io": "^2.4.0",
-    "xmlhttprequest-ssl": "^1.6.3"
+    "xmlhttprequest-ssl": "1.6.2"
   },
   "devDependencies": {
     "nodemon": "^2.0.2"
