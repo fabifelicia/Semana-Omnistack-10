@@ -8,7 +8,7 @@
     "eject": "expo eject"
   },
   "dependencies": {
-    "@hapi/hoek": "^9.1.0",
+    "@hapi/hoek": "^9.2.0",
     "@react-native-community/masked-view": "^0.1.10",
     "acorn": "^7.2.0",
     "axios": "^0.21.1",
@@ -18,9 +18,10 @@
     "kind-of": "^6.0.3",
     "lodash": "^4.17.21",
     "logkitty": "^0.7.1",
+    "mem": "^8.1.1",
     "minimist": "^1.2.5",
     "node-fetch": "^2.6.1",
-    "node-notifier": "^9.0.0",
+    "node-notifier": "^10.0.0",
     "react": "~16.9.0",
     "react-dom": "~16.9.0",
     "react-native": "https://github.com/expo/react-native/archive/sdk-36.0.0.tar.gz",
