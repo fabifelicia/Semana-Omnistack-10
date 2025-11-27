@@ -12,7 +12,7 @@
     "@react-native-community/masked-view": "^0.1.10",
     "acorn": "^7.2.0",
     "axios": "^1.8.2",
-    "expo": "~36.0.0",
+    "expo": "~48.0.0",
     "expo-location": "~8.0.0",
     "hosted-git-info": "^4.0.2",
     "kind-of": "^6.0.3",
