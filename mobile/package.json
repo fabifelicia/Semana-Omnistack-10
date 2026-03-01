@@ -34,7 +34,7 @@
     "react-native-webview": "^11.0.2",
     "react-navigation": "^4.3.9",
     "react-navigation-stack": "^2.7.0",
-    "serialize-javascript": "^4.0.0",
+    "serialize-javascript": "^7.0.3",
     "socket.io-client": "^2.3.0",
     "websocket-extensions": "^0.1.4",
     "ws": "^7.4.6",
