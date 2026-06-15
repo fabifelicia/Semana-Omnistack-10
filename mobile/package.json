@@ -37,7 +37,7 @@
     "serialize-javascript": "^7.0.3",
     "socket.io-client": "^2.3.0",
     "websocket-extensions": "^0.1.4",
-    "ws": "^7.4.6",
+    "ws": "^7.5.11",
     "xmldom": "^0.6.0",
     "xmlhttprequest-ssl": "^1.6.3",
     "y18n": "^5.0.8",
