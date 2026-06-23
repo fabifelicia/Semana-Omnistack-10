@@ -44,7 +44,7 @@
     "yargs-parser": "^20.2.7"
   },
   "devDependencies": {
-    "@babel/core": "^7.10.2",
+    "@babel/core": "^7.29.6",
     "babel-preset-expo": "~8.0.0"
   },
   "private": true
